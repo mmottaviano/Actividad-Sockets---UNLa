@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725228842 source:c:\users\martin\documents\codeblocks\ccliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
